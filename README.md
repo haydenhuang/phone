@@ -1,3 +1,5 @@
+a fork of https://github.com/aftership/phone to support TW phone number
+
 ## What is node-phone?
 `node-phone` is used to normalize the `mobile` phone number into a E.164 format.
 
